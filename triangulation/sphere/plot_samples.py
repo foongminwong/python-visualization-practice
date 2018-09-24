@@ -4,46 +4,54 @@ import matplotlib.pyplot as plt
 import numpy as np
 import bertini_real
 
+#create a new figure
 fig = plt.figure ()
+
+#describe the position of the su plot
 ax = fig.add_subplot (1, 1, 1, projection = '3d', aspect = 1)
 
+#read the most recent data?
 data = bertini_real.data.ReadMostRecent();
+
+#tuples -  store surface sampler data
 tuples = data.surface.surface_sampler_data
 
-#extract points from vertices
+
+"""Extract points from vertices"""
 def extractPoints(data):
 	points = []
 
 	for v in data.vertices:
-		q=[None]*3 #preallocation
+		#allocate 3 buckets to q
+		q=[None]*3
 
 		for i in range(3):
+			#q[0],q[1],q[2]
 			q[i]=v['point'][i].real
 		points.append(q)
 	return points
 
+#points - store extracted points
 points = extractPoints(data)
 
+#create an empty array T
 T = []
 #T=[[points[f],points[s],points[t]]]
 
-#loop over them, see Matlab code
-# for each tri on that face, two loops
-for i in range(0):
+"""Questions"""
+# len(tuples) - 'int' object is not iterable?
+# how to get size of tuples and size of list in tuples?
+for i in range(2):
 	
-	for j in range(0):
+	for j in range(1000):
 		f = int(tuples[i][j][0])
 		s = int(tuples[i][j][1])
 		t = int(tuples[i][j][2])
+		#print(f,s,t)
 		k = [points[f],points[s],points[t]]
 		T.append(k)
 
-#f = int(tuples[0][0][0])
-#s = int(tuples[0][0][1])
-#t = int(tuples[0][0][2])
 
-# T grows through the loop
-#for t in points
 ax.add_collection3d(Poly3DCollection(T))
 
 plt.show()
