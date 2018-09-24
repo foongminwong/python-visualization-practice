@@ -1,0 +1,56 @@
+Number of variables: 3
+Variables:  x y z
+Rank: 1
+
+----------DIMENSION 2----------
+
+NONSINGULAR SOLUTIONS
+---------------
+Path number: 0
+Component number: 0
+Estimated condition number: 1.000000e+00
+-7.183664072445392e-01 3.863079651943487e-01
+9.638384831601815e-01 -6.061346823016760e-02
+4.693071727046988e-01 7.158046538871744e-01
+Multiplicity: 1
+Deflations needed: 0
+---------------
+Path number: 1
+Component number: 0
+Estimated condition number: 1.000000e+00
+1.217114364399875e+00 -5.831736095527563e-01
+-1.124803541281566e+00 -3.471823875326240e-01
+2.736940854297712e-01 1.166546941111097e+00
+Multiplicity: 1
+Deflations needed: 0
+
+
+*************** input file needed to reproduce this run ***************
+
+CONFIG
+
+TrackType: 3;
+CoeffBound: 2.034686000000e+00;
+DegreeBound: 2.000000000000e+00;
+SecurityLevel: 1;
+RandomSeed: 13423;
+
+END;
+
+INPUT
+
+variable_group x,y,z;
+function f1;
+f1=x^2+y^2+z^2-1;
+
+END;
+
+
+*************** version information ***************
+Bertini(TM) v1.6
+GMP v6.1.2, MPFR v3.1.6
+
+Authors:
+D.J. Bates, J.D. Hauenstein,
+A.J. Sommese, C.W. Wampler
+
