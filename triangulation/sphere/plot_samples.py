@@ -43,7 +43,7 @@ T = []
 # how to get size of tuples and size of list in tuples?
 for i in range(2):
 	
-	for j in range(1000):
+	for j in range(1832):
 		f = int(tuples[i][j][0])
 		s = int(tuples[i][j][1])
 		t = int(tuples[i][j][2])
