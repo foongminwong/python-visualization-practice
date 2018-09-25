@@ -7,8 +7,12 @@ import bertini_real
 #create a new figure
 fig = plt.figure ()
 
+q=1
 #describe the position of the su plot
-ax = fig.add_subplot (1, 1, 1, projection = '3d', aspect = 1)
+ax = fig.add_subplot (1,1,1, projection = '3d', aspect = 1)
+ax.set_xlim(-q,q)
+ax.set_ylim(-q,q)
+ax.set_zlim(-q,q)
 
 #read the most recent data?
 data = bertini_real.data.ReadMostRecent();
@@ -43,10 +47,10 @@ T = []
 # how to get size of tuples and size of list in tuples?
 for i in range(2):
 	
-	for j in range(1832):
-		f = int(tuples[i][j][0])
-		s = int(tuples[i][j][1])
-		t = int(tuples[i][j][2])
+	for tri in tuples[i]:
+		f = int(tri[0])
+		s = int(tri[1])
+		t = int(tri[2])
 		#print(f,s,t)
 		k = [points[f],points[s],points[t]]
 		T.append(k)
