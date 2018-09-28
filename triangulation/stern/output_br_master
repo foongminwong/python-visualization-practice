@@ -9,7 +9,7 @@ numSteps = 1
 numSteps = 1
 numSteps = 1
 cycle: 1 error: 2.288783e-16
-prec: 96 newton: 3.736140e-16 func: 2.101598e-29
-prec: 128 newton: 8.361066e-30 func: 4.301290e-39
-prec: 160 newton: 3.294231e-39 func: 1.114944e-48
+prec: 96 newton: 3.735360e-16 func: 1.074839e-29
+prec: 128 newton: 1.521856e-29 func: 4.446510e-39
+prec: 160 newton: 1.235222e-38 func: 2.616748e-48
 min sv: 3.841353e-01
