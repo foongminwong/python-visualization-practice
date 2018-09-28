@@ -1,0 +1,24 @@
+prec: 224 newton: 1.872865e-58 func: 7.419183e-66
+prec: 256 newton: 6.609008e-68 func: 2.028243e-75
+prec: 288 newton: 1.778752e-77 func: 1.327069e-84
+min sv: 4.506351e-01
+prec: 224 newton: 4.588282e-58 func: 1.139468e-64
+prec: 256 newton: 8.434729e-68 func: 3.646242e-74
+prec: 288 newton: 5.212066e-77 func: 1.302241e-83
+min sv: 2.527109e-01
+prec: 224 newton: 1.971482e-58 func: 1.186946e-66
+prec: 256 newton: 2.903142e-68 func: 1.245526e-76
+prec: 288 newton: 4.214755e-78 func: 2.412918e-86
+min sv: 3.465716e-01
+prec: 224 newton: 1.331331e-58 func: 9.383632e-67
+prec: 256 newton: 2.005627e-68 func: 2.184797e-76
+prec: 288 newton: 1.129803e-77 func: 4.549841e-86
+min sv: 3.999276e-01
+prec: 224 newton: 1.016657e-57 func: 1.671220e-63
+prec: 256 newton: 6.956563e-67 func: 5.929720e-73
+prec: 288 newton: 1.071253e-76 func: 1.070692e-82
+min sv: 1.546407e-01
+prec: 224 newton: 2.331374e-58 func: 5.447358e-66
+prec: 256 newton: 6.095620e-68 func: 1.392540e-75
+prec: 288 newton: 1.610158e-77 func: 5.818446e-85
+min sv: 6.555242e-01
