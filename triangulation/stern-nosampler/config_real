@@ -1,0 +1,11 @@
+randomseed: 1;
+endgamebdry: 0.01;
+tracktype: 1;
+securitylevel: 0;
+sharpendigits: 50;
+condnumthreshold: 1e300;
+odepredictor: 5;
+numsamplepoints: 4;
+endgamenum: 2;
+maxstepsbeforenewton: 1;
+maxnewtonits: 2;

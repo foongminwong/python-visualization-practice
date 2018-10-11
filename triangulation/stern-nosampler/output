@@ -1,0 +1,218 @@
+
+*****************************************************
+Tracking regeneration codim 1.
+*****************************************************
+
+Path number 0:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <4.950419084970065e-01 9.626699142910006e-01> 
+H(Point, time):
+     <7.365272008083074e-18 4.792483548279931e-18> 
+
+
+numSteps = 101
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.602085e-17
+CN: 1.000000e+00
+corank: 0
+prec: 96 newton: 2.762642e-17 func: 7.573301e-28
+prec: 128 newton: 1.242913e-29 func: 1.085730e-37
+prec: 160 newton: 6.886656e-40 func: 2.416034e-47
+min sv: 5.747173e+01
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <0.735036699668245e0 -0.119763197369786e-1> 
+De-hom point: <0.102086484478178e1 -0.299478440564473e0> <-0.120873007380264e1 -0.304570536205444e-1> <-0.122949323431272e0 -0.809184656374475e0> 
+||H(Point, time)||: 4.91242417704199e-57
+
+_____________________________________________________
+
+Path number 1:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <1.345026582764943e-01 -1.276398567508278e+00> 
+H(Point, time):
+     <-2.634653156406960e-16 -1.725387566382114e-16> 
+
+
+numSteps = 66
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 1.387779e-17
+CN: 1.000000e+00
+corank: 0
+prec: 96 newton: 1.838826e-17 func: 1.061430e-27
+prec: 128 newton: 8.127573e-30 func: 9.693375e-38
+prec: 160 newton: 4.810449e-40 func: 2.581997e-47
+min sv: 1.074054e+02
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <0.843302842865113e-1 -0.268385787119366e0> 
+De-hom point: <-0.611178382968962e-1 -0.205587080298240e0> <-0.156619018042044e0 0.589197158408324e-1> <-0.332804380823054e0 -0.952492326542007e0> 
+||H(Point, time)||: 5.69961889231555e-57
+
+_____________________________________________________
+
+Path number 2:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <5.016141930700595e-01 -1.637634401942237e+00> 
+H(Point, time):
+     <3.424780560472497e-16 -6.872584875878153e-16> 
+
+
+numSteps = 73
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 1.665335e-16
+CN: 1.000000e+00
+corank: 0
+prec: 96 newton: 7.564308e-17 func: 2.101137e-27
+prec: 128 newton: 1.436787e-29 func: 7.052966e-38
+prec: 160 newton: 2.512596e-39 func: 2.857419e-47
+min sv: 6.637608e+01
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <0.128888925068962e1 -0.335764923775021e0> 
+De-hom point: <-0.604926393437254e0 -0.744198596913086e1> <-0.834991125099039e0 0.708158834597047e1> <0.640888867341694e0 -0.234355475403416e1> 
+||H(Point, time)||: 1.78540050063521e-56
+
+_____________________________________________________
+
+Path number 3:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <8.683190002919293e-01 5.114283834221843e-01> 
+H(Point, time):
+     <3.191760109241516e-17 -1.637701627976208e-18> 
+
+
+numSteps = 73
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.342391e-16
+CN: 1.000000e+00
+corank: 0
+prec: 96 newton: 1.060642e-16 func: 3.160992e-27
+prec: 128 newton: 6.366971e-30 func: 3.494996e-37
+prec: 160 newton: 5.752512e-39 func: 1.318271e-46
+min sv: 9.226658e+01
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <0.150771218093248e1 -0.876591550587031e-2> 
+De-hom point: <0.439264587500348e0 0.703694023464223e1> <0.564371446438103e0 -0.696242264737009e1> <-0.131526998013201e1 0.433245741993459e0> 
+||H(Point, time)||: 2.84980944615777e-57
+
+_____________________________________________________
+
+Path number 4:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <5.248262114875197e-01 1.170674471905895e+00> 
+H(Point, time):
+     <-1.781547405274443e-17 -2.854094246747956e-17> 
+
+
+numSteps = 101
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.809235e-17
+CN: 1.000000e+00
+corank: 0
+prec: 96 newton: 1.071780e-17 func: 8.817193e-28
+prec: 128 newton: 3.511554e-30 func: 2.350989e-37
+prec: 160 newton: 1.128999e-39 func: 1.472855e-46
+min sv: 2.410553e+02
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <-0.217005735260734e0 -0.762988796614114e-2> 
+De-hom point: <-0.124075294787737e0 0.508095230261696e-1> <-0.538105304903674e-1 -0.176276227845794e0> <-0.382194580704900e0 -0.915387735984823e0> 
+||H(Point, time)||: 2.29405235203073e-56
+
+_____________________________________________________
+
+Path number 5:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <7.460691155976993e-01 3.556387098970769e+00> 
+H(Point, time):
+     <-6.575419851628464e-15 2.077830064942710e-14> 
+
+
+numSteps = 87
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 4.440892e-16
+CN: 1.000000e+00
+corank: 0
+prec: 96 newton: 1.024243e-16 func: 5.311579e-25
+prec: 128 newton: 6.693027e-29 func: 1.190468e-34
+prec: 160 newton: 2.211362e-38 func: 2.142304e-44
+min sv: 7.161946e+03
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <0.325887534023009e1 0.277994323129870e0> 
+De-hom point: <-0.131074759229349e1 0.112433794041725e1> <0.126095720243041e1 -0.100805002926294e1> <-0.756155750378754e0 -0.896797417634486e0> 
+||H(Point, time)||: 3.39971063383851e-54
+
+_____________________________________________________
+
+*****************************************************
+Sorting codimension 1.
+*****************************************************
+Path number: 0 Finite: 1 Soln: 1 Corank: 0 CN: 1.000000e+00
+Path number: 1 Finite: 1 Soln: 1 Corank: 0 CN: 1.000000e+00
+Path number: 2 Finite: 1 Soln: 1 Corank: 0 CN: 1.000000e+00
+Path number: 3 Finite: 1 Soln: 1 Corank: 0 CN: 1.000000e+00
+Path number: 4 Finite: 1 Soln: 1 Corank: 0 CN: 1.000000e+00
+Path number: 5 Finite: 1 Soln: 1 Corank: 0 CN: 1.000000e+00
