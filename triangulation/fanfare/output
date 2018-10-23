@@ -1,0 +1,209 @@
+
+*****************************************************
+Tracking regeneration codim 1.
+*****************************************************
+
+Path number 0:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <-2.389992807654575e+00 1.111820022420482e+00> 
+H(Point, time):
+     <-4.133161138488789e-16 1.896363671127796e-16> 
+
+
+numSteps = 31
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.443274e-17
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 1.243701e-19
+CN: 1.000000e+00
+corank: 0
+prec: 128 newton: 3.355329e-29 func: 2.659840e-37
+prec: 160 newton: 3.313006e-38 func: 1.078218e-46
+prec: 192 newton: 2.866589e-48 func: 2.279848e-56
+min sv: 8.743900e+00
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <0.408800621468848e1 0.251623325161554e0> 
+De-hom point: <-0.157935375557881e-1 0.749615281108899e0> <-0.889021569616517e0 0.175230327805295e0> <-0.635378739514002e-1 0.858528057228225e0> 
+||H(Point, time)||: 1.81993643903056e-85
+
+_____________________________________________________
+
+Path number 1:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <-1.431956844226125e+00 1.959812919079719e-01> 
+H(Point, time):
+     <4.570298537758493e-17 3.205208631223004e-18> 
+
+
+numSteps = 46
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.887300e-16
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 3.426379e-20
+CN: 1.000000e+00
+corank: 0
+prec: 128 newton: 5.778721e-30 func: 1.836710e-40
+prec: 160 newton: 1.306811e-39 func: 5.409295e-49
+prec: 192 newton: 2.862349e-49 func: 1.198960e-58
+min sv: 9.560750e-01
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <-0.457118847289144e0 -0.695751514741330e0> 
+De-hom point: <0.849601378508965e0 -0.861442141862453e0> <-0.671016794436138e0 0.123937967478142e1> <-0.377634926153294e0 -0.578767148353682e0> 
+||H(Point, time)||: 1.96307177709246e-87
+
+_____________________________________________________
+
+Path number 2:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <-1.332326136329362e+00 7.518766148728482e-01> 
+H(Point, time):
+     <5.051220590847054e-18 -5.853281041121243e-18> 
+
+
+numSteps = 46
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.870180e-16
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 1.073003e-20
+CN: 1.000000e+00
+corank: 0
+prec: 128 newton: 3.316145e-30 func: 2.674290e-39
+prec: 160 newton: 2.964155e-39 func: 8.113943e-49
+prec: 192 newton: 3.838570e-49 func: 7.179968e-59
+min sv: 1.010425e+00
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <-0.790360540006456e0 -0.275280916526067e0> 
+De-hom point: <-0.670689556535470e0 -0.874700422252989e0> <0.275937789273290e-1 0.667149338086751e0> <-0.131361053994610e1 0.208573735961015e0> 
+||H(Point, time)||: 1.12405162970171e-87
+
+_____________________________________________________
+
+*****************************************************
+Sorting codimension 1.
+*****************************************************
+Path number: 0 Finite: 1 Soln: 1 Corank: 0 CN: 1.000000e+00
+Path number: 1 Finite: 1 Soln: 1 Corank: 0 CN: 1.000000e+00
+Path number: 2 Finite: 1 Soln: 1 Corank: 0 CN: 1.000000e+00

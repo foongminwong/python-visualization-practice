@@ -1,0 +1,28 @@
+numSteps = 10
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.625699e-19
+prec: 128 newton: 6.456010e-20 func: 3.526483e-38
+prec: 160 newton: 1.450554e-38 func: 2.736911e-48
+prec: 192 newton: 3.113917e-48 func: 1.911710e-57
+min sv: 1.155165e-03

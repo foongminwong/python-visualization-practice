@@ -1,0 +1,305 @@
+
+*****************************************************
+Testing 0
+*****************************************************
+
+Path number 0:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <-1.354183959752115e+00 -3.261286564410328e-02> <4.583445767336213e-02 -1.014601917144393e+00> <1.209613512585822e+00 -2.083005581714222e-01> <1.140410299238150e-01 -1.160532771949119e+00> 
+H(Point, time):
+     <0.000000000000000e+00 -3.330669073875470e-16> <4.692504676631661e-17 1.144874791335379e-16> <1.444616992063329e-17 -1.931300035233747e-16> <5.551115123125783e-17 1.387778780781446e-17> 
+
+
+numSteps = 10
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 5.070848e-29
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <-0.135418395975212e1 -0.326128656441033e-1> <0.458344576733621e-1 -0.101460191714439e1> <0.120961351258582e1 -0.208300558171422e0> <0.114041029923815e0 -0.116053277194912e1> 
+||H(Point, time)||: 2.52435489670724e-29
+
+_____________________________________________________
+
+Path number 1:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <-9.031697679503332e-01 9.996988640572924e-01> <9.384845079274996e-02 1.627374032365471e+00> <-6.329643704930172e-01 -1.790184980435866e+00> <9.196613093866670e-01 1.452037843720635e-01> 
+H(Point, time):
+     <0.000000000000000e+00 -1.776356839400250e-15> <-1.227424333738998e-16 1.572850487796736e-16> <-7.451504726965585e-17 -1.165512176936284e-16> <-2.706168622523819e-16 -1.665334536937735e-16> 
+
+
+numSteps = 10
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 7.677526e-29
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <-0.903169767950333e0 0.999698864057292e0> <0.938484507927500e-1 0.162737403236547e1> <-0.632964370493017e0 -0.179018498043587e1> <0.919661309386667e0 0.145203784372063e0> 
+||H(Point, time)||: 4.27093694433277e-28
+
+_____________________________________________________
+
+Path number 2:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <-7.909048754771250e-01 3.979408506812639e-01> <8.785306703181095e-01 4.249100558710244e-01> <-2.873100294161463e-01 -5.166709723042960e-01> <9.559409706034148e-01 -6.877012803980711e-01> 
+H(Point, time):
+     <2.775557561562891e-16 2.220446049250313e-16> <0.000000000000000e+00 0.000000000000000e+00> <-5.105252388649755e-17 -5.930747812685943e-17> <-1.110223024625157e-16 -1.665334536937735e-16> 
+
+
+numSteps = 10
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 3.155444e-29
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <-0.790904875477125e0 0.397940850681264e0> <0.878530670318110e0 0.424910055871024e0> <-0.287310029416146e0 -0.516670972304296e0> <0.955940970603415e0 -0.687701280398071e0> 
+||H(Point, time)||: 4.95163409338502e-29
+
+_____________________________________________________
+
+*****************************************************
+Testing 1
+*****************************************************
+
+Path number 0:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <-1.354183959752115e+00 -3.261286564410328e-02> <4.583445767336213e-02 -1.014601917144393e+00> <1.209613512585822e+00 -2.083005581714222e-01> <1.140410299238150e-01 -1.160532771949119e+00> 
+H(Point, time):
+     <0.000000000000000e+00 -3.330669073875470e-16> <-5.284644757292296e-17 7.042481596905519e-17> <1.232823977804308e-16 -6.160222905563119e-17> <5.551115123125783e-17 1.387778780781446e-17> 
+
+
+numSteps = 10
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.461566e-18
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.546176e-20
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <-0.689866697337791e0 0.927144747064139e-1> <0.699162843728458e0 -0.871704838549943e0> <0.136312122169097e1 0.468481514305088e0> <0.307345961752524e0 -0.261233410465386e0> 
+||H(Point, time)||: 9.97545429065439e-21
+
+_____________________________________________________
+
+Path number 1:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <-9.031697679503332e-01 9.996988640572924e-01> <9.384845079274996e-02 1.627374032365471e+00> <-6.329643704930172e-01 -1.790184980435866e+00> <9.196613093866670e-01 1.452037843720635e-01> 
+H(Point, time):
+     <0.000000000000000e+00 -1.776356839400250e-15> <-1.408719004150156e-16 -1.764517382684800e-17> <4.404612913640421e-17 -8.803658708054530e-17> <-2.706168622523819e-16 -1.665334536937735e-16> 
+
+
+numSteps = 10
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 1.275049e-18
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 3.095112e-20
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <-0.516418656203487e0 0.121020306656094e1> <0.692841189637410e-1 0.170500307821878e1> <-0.203183514295014e-1 -0.153875824904855e1> <0.754978736907289e0 0.121245049413957e1> 
+||H(Point, time)||: 9.97545431922400e-21
+
+_____________________________________________________
+
+Path number 2:
+Starting with:
+time: <1.0000000000e+00 0.0000000000e+00>
+Point: <-7.909048754771250e-01 3.979408506812639e-01> <8.785306703181095e-01 4.249100558710244e-01> <-2.873100294161463e-01 -5.166709723042960e-01> <9.559409706034148e-01 -6.877012803980711e-01> 
+H(Point, time):
+     <2.775557561562891e-16 2.220446049250313e-16> <0.000000000000000e+00 0.000000000000000e+00> <1.762290534994274e-17 -5.282417909601770e-17> <-1.110223024625157e-16 -1.665334536937735e-16> 
+
+
+numSteps = 10
+Changing Prec at beginning: 96
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 2.142746e-18
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 3.212372e-20
+
+Ending with
+time: <0.0000000000e0 0.0000000000e0>
+Point: <-0.564446077731920e0 0.633748583824519e0> <0.483982223142860e0 0.413108273170269e0> <0.612856710078830e0 -0.464508089504542e0> <0.579954644181296e0 0.444325756889356e0> 
+||H(Point, time)||: 9.97545429233534e-21
+
+_____________________________________________________

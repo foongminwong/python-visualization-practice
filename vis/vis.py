@@ -1,3 +1,4 @@
+#	test vis.py
 from mpl_toolkits.mplot3d import Axes3D
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 import matplotlib.pyplot as plt
@@ -46,5 +47,3 @@ for ii in range(num_faces):
 
 # at the very end of the plot call
 plt.show ()
-
-

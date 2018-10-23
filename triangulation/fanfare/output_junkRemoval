@@ -1,0 +1,12 @@
+prec: 320 newton: 2.579157e-29 func: 6.494301e-58
+prec: 352 newton: 1.185159e-58 func: 7.860374e-106
+prec: 384 newton: 3.704498e-106 func: 2.646972e-116
+min sv: 3.732994e-01
+prec: 320 newton: 6.045039e-29 func: 4.903020e-57
+prec: 352 newton: 1.036319e-57 func: 1.233237e-105
+prec: 384 newton: 4.903723e-106 func: 6.175079e-115
+min sv: 2.218178e-01
+prec: 320 newton: 3.528399e-29 func: 1.279168e-57
+prec: 352 newton: 4.296010e-58 func: 1.308128e-106
+prec: 384 newton: 2.054332e-106 func: 9.150679e-116
+min sv: 3.068876e-01
