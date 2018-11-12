@@ -1,0 +1,47 @@
+# .bash_profile
+
+# Get the aliases and functions
+if [ -f ~/.bashrc ]; then
+	. ~/.bashrc
+fi
+
+# User specific environment and startup programs
+bind '"\e[A":history-search-backward'
+bind '"\e[B":history-search-forward'
+
+#PATH=$PATH:$HOME/bin
+GCCVER=~brakeda/software/gcc6/
+
+# this changes where the shell looks for programs to run
+PATH=$GCCVER/bin:$PATH
+export PATH
+
+#these affect the places the linker looks for libraries,\both at runtime and at link time
+
+LD_RUN_PATH=$GCCVER/lib:$GCCVER/lib64:$LD_RUN_PATH
+LD_LIBRARY_PATH=$GCCVER/lib:$GCCVER/lib64:$LD_LIBRARY_PATH
+export LD_RUN_PATH
+export LD_LIBRARY_PATH
+
+
+# these should affect the path the compiler looks in when looking for...included files
+C_INCLUDE_PATH=$GCCVER/include:$C_INCLUDE_PATH
+CPLUS_INCLUDE_PATH=$GCCVER/include:$CPLUS_INCLUDE_PATH
+
+export C_INCLUDE_PATH
+export CPLUS_INCLUDE_PATH
+export PYTHONPATH=/data/users/wongf3284/bertini_real/python
+#export 
+
+module load matlab
+module load tmux
+#module load slurm
+#module load mpich
+#module load openmpi
+#module load python
+#module load R
+
+#export PATH
+
+#module load gcc/4.9.3
+
