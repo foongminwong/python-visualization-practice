@@ -1,0 +1,15 @@
+numSteps = 10
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+numSteps = 1
+cycle: 1 error: 4.965068e-16
+prec: 96 newton: 3.026219e-16 func: 1.157885e-26
+prec: 128 newton: 6.048612e-29 func: 4.471917e-36
+prec: 160 newton: 1.703577e-38 func: 4.551557e-46
+min sv: 2.956289e-01
