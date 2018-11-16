@@ -65,7 +65,7 @@ Deflations needed: 0
 
 CONFIG
 
-TrackType: 3;
+TrackType: 1;
 EndgameBdry: 1.000000000000e-02;
 EndgameNum: 2;
 NumSamplePoints: 4;
@@ -73,7 +73,7 @@ CoeffBound: 2.248474000000e+02;
 DegreeBound: 6.000000000000e+00;
 CondNumThreshold: 1.000000000000e+300;
 SharpenDigits: 50;
-RandomSeed: 13423;
+RandomSeed: 1;
 
 END;
 
