@@ -30,7 +30,7 @@ Deflations needed: 0
 CONFIG
 
 TrackType: 3;
-CoeffBound: 1.888737000000e+00;
+CoeffBound: 2.081117000000e+00;
 DegreeBound: 2.000000000000e+00;
 SecurityLevel: 1;
 RandomSeed: 13423;
